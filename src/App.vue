@@ -1,8 +1,6 @@
 <template>
-  <div>
-    <div class="d-flex justify-content-center p-4">
-      <card></card>
-    </div>
+  <div class="container">
+    <card></card>
   </div>
 </template>
 
